@@ -36,11 +36,7 @@
 <div><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lairacastro&show_icons=true&count_private=true&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=9feee9&bg_color=141321" alt= "Laira Castro github stats" />
 <img align=right width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lairacastro&layout=compact&hide_border=true&title_color=fe428e&text_color=9feee9&bg_color=141321" />
 </div>
-<div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lairacastro&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-
+<br>
 
 ## Tecnologias que estou aprendendo:
 
