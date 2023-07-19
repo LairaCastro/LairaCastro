@@ -59,7 +59,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lairacastro&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
 
 <!--START_SECTION:waka--> 
-[![Laira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lairacastro)](https://github.com/anuraghazra/github-readme-stats))<!--END_SECTION:waka-->
+[![Laira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lairacastro)](https://github.com/anuraghazra/github-readme-stats)<!--END_SECTION:waka-->
 
 
 
