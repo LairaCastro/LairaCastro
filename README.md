@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 ### Olá! Eu sou a Laira Castro ✌️ <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=lairacastro&repo=lairacastro&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=141321&contentType=svg" alt="Contador de Visitas do Perfil no Github da Laira" height="40px"/><br><br>
   <ul>
     <li>🤩️ Apaixonada por Programação, Design e Jogos.</li>
@@ -61,6 +61,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lairacastro&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
 
 [![Laira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lairacastro)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
 
 
 
