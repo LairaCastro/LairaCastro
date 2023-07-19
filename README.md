@@ -36,9 +36,9 @@
 <div><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lairacastro&show_icons=true&count_private=true&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=9feee9&bg_color=141321" alt= "Laira Castro github stats" />
 <img align=right width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lairacastro&layout=compact&hide_border=true&title_color=fe428e&text_color=9feee9&bg_color=141321" />
 </div>
-<br>
 
-## Tecnologias que estou aprendendo:
+
+## Skills em desenvolvimento:
 
 <div style="display: inline_block"><br/>
 <img align: center alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -52,9 +52,13 @@
 <img align: center alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align: center alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align: center alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img align: center alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
- 
+<img align: center alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
 </div>
+<hr/>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lairacastro&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
+
+[![Laira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lairacastro)](https://github.com/lairacastro/github-readme-stats)
+
 
 
