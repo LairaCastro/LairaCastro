@@ -58,8 +58,81 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lairacastro&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição" />
 
-<!--START_SECTION:waka--> 
-[![Laira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lairacastro)](https://github.com/anuraghazra/github-readme-stats)<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-252-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 25.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 71 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌆 Daytime                10 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+🌃 Evening                10 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+🌙 Night                  25 commits          █████████████░░░░░░░░░░░░   53.19 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Tuesday                  13 commits          ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Wednesday                11 commits          ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Thursday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Sunday                   12 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Asuncion
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+CSS                      6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/lairacastro/lairacastro/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/07/2023 18:36:38 UTC
+<!--END_SECTION:waka-->
 
 
 
