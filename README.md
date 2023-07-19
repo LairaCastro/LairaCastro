@@ -1,7 +1,7 @@
-### Olá! Eu sou a Laira Castro ✌️ <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=lairacastro&repo=lairacastro&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=800080&contentType=svg" alt="Contador de Visitas do Perfil no Github da Laira" height="40px"/><br><br>
+### Olá! Eu sou a Laira Castro ✌️ <img align="right" src="https://visitor-badge.feriirawann.repl.co/?username=lairacastro&repo=lairacastro&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=141321&contentType=svg" alt="Contador de Visitas do Perfil no Github da Laira" height="40px"/><br><br>
   <ul>
     <li>🤩️ Apaixonada por Programação, Design e Jogos.</li>
-    <li> Migrando da área da Saúde Mental para a área Tech</li>
+    <li>🔄  Migrando da área da Saúde Mental para a área Tech</li>
     <li>💻 Estudo <b>Ciências da Computação</b> na Ampli e também me especializando através de estudos na <a href="https://www.dio.me" target="_blank">DIO<a/> e na <a href="https://www.origamid.com/" target="_blank">Origamid</li>
     <li>🎨 Com mais de 5 anos de <b>experiência em Design</b>, tenho autonomia em diversas das tecnologias de edição mais relevantes do mercado.</li>
     <li>💡 Embora eu tenha um amor pelo desenvolvimento front-end, também estou adquirindo habilidades em back-end, o que me permitirá criar soluções completas e integradas para meus projetos.</li>
@@ -56,3 +56,5 @@
   
  
 </div>
+
+
