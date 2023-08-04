@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20thousand%20lines%20of%20code-blue)
 
@@ -105,17 +105,16 @@ Sunday                   12 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Asuncion
 
 💬 Programming Languages: 
-SQL                      1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-desafio do zero          42 mins             ███████████████░░░░░░░░░░   59.30 % 
-desafio script           29 mins             ██████████░░░░░░░░░░░░░░░   40.70 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -134,7 +133,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lairacastro/lairacastro/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2023 18:36:07 UTC
+ Last Updated on 04/08/2023 18:35:44 UTC
 <!--END_SECTION:waka-->
 
 
