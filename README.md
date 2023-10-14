@@ -64,7 +64,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -120,10 +120,11 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-CSS                      6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+CSS                      6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -133,7 +134,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lairacastro/lairacastro/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2023 18:37:37 UTC
+ Last Updated on 14/10/2023 18:35:55 UTC
 <!--END_SECTION:waka-->
 
 
